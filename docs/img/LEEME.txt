@@ -1,0 +1,4 @@
+Guarda aquí tus dos capturas con ESTOS nombres exactos (el README las enlaza):
+  inferencia.png    -> panel de Inferencia con un modelo ya entrenado
+  laboratorio.png   -> Laboratorio del generador (Mini-GPT)
+Después puedes borrar este archivo.

@@ -1,0 +1,898 @@
+# ============================================================
+# SEMILLA DE DATOS · una frase o excusa por línea
+# Secciones:  [FRASES:CATEGORIA]  y  [EXCUSAS:CATEGORIA]
+# Categorías simples:  CLIMA COMPRAS MASCOTA PAREJA SALUD VEHICULO
+# Categorías mixtas (2 etiquetas): se escriben con + y en ORDEN ALFABÉTICO (CLIMA+VEHICULO)
+# Cada categoría debe tener sección FRASES y sección EXCUSAS. Las líneas que empiezan por # se ignoran.
+# Para añadir una categoría nueva, crea las dos secciones y listo.
+# ============================================================
+
+[FRASES:VEHICULO]
+se me ha reventado el coche en la M-30
+me he quedado sin gasolina en plena autopista
+tengo un pinchazo y no encuentro la rueda de repuesto
+el autobús no ha pasado en una hora
+se me ha averiado la moto
+hay un atasco monumental en la A-6
+el coche no arranca ni a empujones
+la grúa se ha llevado mi coche
+el metro está parado por una avería
+he perdido las llaves del coche
+se me ha encendido el piloto del motor
+me he equivocado de salida y voy hacia Segovia
+el tren de cercanías va con cuarenta minutos de retraso
+me han puesto una multa por aparcar mal
+se me ha caído el retrovisor en marcha
+la batería del coche está muerta
+el patinete eléctrico se ha quedado sin batería
+un camión ha bloqueado toda la carretera
+me he quedado encerrado en el garaje
+el taxi no aparece por ningún sitio
+el coche echa humo por el capó
+se me ha salido el tubo de escape
+el GPS me ha mandado a un camino de tierra
+hay una huelga de transportes
+la bici tiene la cadena rota
+me han pinchado las cuatro ruedas
+el coche se ha calado en plena rotonda
+estoy atrapado detrás de un tractor
+me han cortado la carretera por obras
+el parabrisas se ha rajado de arriba abajo
+la ITV me ha suspendido el coche
+me he quedado sin saldo para el bus
+se ha estropeado el aire del coche y no puedo conducir
+mi coche hace un ruido rarísimo
+el autobús se ha averiado en medio de la nada
+he chocado con un cono de obras
+el ascensor del parking no funciona y mi coche está en la planta menos tres
+me han bloqueado el coche con otro mal aparcado
+se me ha olvidado dónde he aparcado el coche
+el taxista no encuentra mi calle
+
+[EXCUSAS:VEHICULO]
+Mi coche ha tenido una crisis existencial y ha decidido que prefiere ser un sofá.
+Una bandada de palomas con prisa ha secuestrado mi tubo de escape.
+El GPS me ha llevado a una dimensión paralela donde todas las calles son rotondas.
+Mi coche se ha declarado en huelga por falta de gasolina premium y respeto.
+Una grúa fantasma se ha llevado mi coche por haber aparcado en el pasado.
+El volante se ha enamorado de una farola y no ha habido manera de separarlos.
+Un camión de gelatina ha bloqueado la carretera y el temblor era imposible de sortear.
+Mi moto ha pedido vacaciones y se ha ido sola a la playa.
+El autobús me ha visto correr y se ha escondido detrás de una esquina por vergüenza.
+Mis llaves han emigrado a otro país en busca de una vida mejor.
+Mi coche ha oído que hoy era lunes y ha pedido la baja laboral.
+Una familia de patos ha cruzado la autopista y tenía preferencia por tradición.
+El limpiaparabrisas ha empezado a dirigir el tráfico y nadie se atreve a contradecirlo.
+Un señor con un rebaño de ovejas me ha pedido paso y me ha cobrado peaje en lana.
+El coche se ha negado a arrancar hasta que le pida perdón por llamarlo cacharro.
+Mi patinete se ha rebelado y ahora solo gira a la izquierda.
+Una rotonda me ha atrapado y llevo cuarenta minutos dando vueltas por solidaridad.
+El metro ha parado porque el maquinista ha visto una mariposa preciosa.
+Mi aparcamiento ha desaparecido y el coche lo ha sentido como una traición.
+Una rueda ha decidido independizarse y se ha ido rodando sola hacia el horizonte.
+El tubo de escape ha dado una charla motivacional y todo el motor se ha emocionado.
+La multa que me han puesto estaba escrita en élfico y tengo que traducirla.
+Mi bici ha empezado a pedalear en dirección contraria por motivos filosóficos.
+El taxista me ha reconocido de una vida anterior y ha insistido en ponerse al día.
+Un helicóptero ha aterrizado en mi carril y no me atrevía a pitarle.
+El cinturón de seguridad se ha enamorado de mí y no me suelta.
+El motor ha hecho un ruido tan raro que me he quedado a escucharlo por si me hablaba.
+Me he quedado atrapado detrás de una procesión de caracoles con carnet de conducir.
+El coche ha confundido la M-30 con una pista de baile y ha empezado a derrapar con estilo.
+Mi ITV ha caducado en una dimensión paralela y tengo que ir allí a renovarla.
+
+[FRASES:PAREJA]
+mi novia me ha montado un drama
+estoy discutiendo con mi pareja
+mi marido se ha enfadado conmigo
+es nuestro aniversario y se me ha olvidado
+mi novio me ha dejado esta mañana
+tengo cena romántica con mi mujer
+mi ex me ha llamado de madrugada
+mi pareja quiere que hablemos ahora mismo
+mi novia me ha pillado mirando el móvil
+estoy en plena crisis de pareja
+mi mujer dice que no la escucho
+he quedado con los suegros y no puedo faltar
+mi novio se ha ofendido por una tontería
+tengo que ir a una boda con mi pareja
+mi chica me ha bloqueado en todas las redes
+mi marido me ha preparado una sorpresa
+estamos eligiendo sofá y llevamos tres horas
+mi novia está llorando con una película
+mi pareja me ha pedido espacio
+tenemos terapia de pareja
+mi novio quiere que conozca a su familia
+he olvidado San Valentín
+mi mujer me ha pedido que la acompañe a ver a su madre
+mi pareja está enfadada porque llego tarde siempre
+mi novia me ha pedido que elija entre ella y el fútbol
+estoy ayudando a mi pareja a mudarse
+mi ex ha vuelto a escribirme
+mi pareja y yo estamos haciendo la declaración de la renta
+mi novio se ha puesto celoso del repartidor
+mi mujer me ha dado un ultimátum
+llevamos seis horas decidiendo dónde cenar
+mi pareja me ha pedido que veamos una serie juntos
+tengo que ir a recoger a mi novia
+mi marido ha invitado a su familia sin avisar
+mi novia dice que hoy toca hablar de lo nuestro
+me he equivocado de nombre al llamar a mi pareja
+mi pareja se ha enfadado porque no respondí a su mensaje
+tenemos que montar un mueble juntos y es nuestra prueba final
+mi novio me ha pedido que le acompañe a una despedida
+mi pareja quiere que probemos una clase de baile
+
+[EXCUSAS:PAREJA]
+Mi pareja me ha pedido que le explique la teoría de cuerdas antes de salir de casa.
+Estamos en plena terapia con un mediador que resulta ser un loro con título.
+Mi novia me tiene retenido hasta que adivine qué le pasa, y llevo seis horas.
+Hemos hecho un pacto de silencio y me han tocado las preguntas de examen.
+Mi ex me ha secuestrado el wifi y negocia mi liberación a cambio de una tostadora.
+He tenido que elegir entre tú y la última croqueta, y me ha dado un apagón moral.
+Mi pareja ha decidido que hoy es el día de redecorar el salón desde cero.
+Una discusión sobre cómo se coloca el rollo de papel ha entrado en prórroga.
+Mi suegra ha convocado un consejo de sabios y yo soy el acusado.
+Mi novio me ha pedido que le demuestre mi amor resolviendo un sudoku gigante.
+Estamos en una guerra fría por quién friega los platos y nadie quiere dar el primer paso.
+Mi pareja me ha hecho jurar sobre un táper que hoy no salgo de casa.
+Hemos entrado en un bucle de me da igual, elige tú, y todavía no hemos salido.
+Mi novia se ha emocionado con una película de perros y me ha tocado hacer de pañuelo humano.
+Mi marido me ha pedido que le ayude a escribir un poema y se nos ha ido la mano con las rimas.
+Estamos tan enfadados que hemos empezado a competir por ver quién perdona más tarde.
+Mi pareja me ha secuestrado el mando y negocia mi libertad por un capítulo más.
+Me han pedido que elija entre dos camisetas idénticas y llevo tres horas en el dilema.
+Mi novia ha dicho que no pasa nada, y eso significa que ha pasado todo, así que estoy en gestión de crisis.
+Mi pareja ha descubierto que las plantas tienen sentimientos y estamos en un duelo colectivo.
+Mi novio me ha obligado a ver su colección completa de fotos de cuando era pequeño.
+Estamos montando una tienda de campaña en el salón y se ha cerrado con mi suegro dentro.
+Mi mujer me ha pedido un cuarto de hora y han pasado tres, así que sigo en cautiverio.
+Hemos decidido hacer una cena sorpresa y la sorpresa soy yo, atado a una silla.
+Mi pareja me ha pillado ensayando excusas y ahora estamos en pleno interrogatorio.
+Mi novia me ha preguntado qué pienso y llevo dos horas intentando que no se note.
+Estamos eligiendo el color de una pared y esto ya es un asunto de Estado.
+Mi ex ha mandado un mensaje de buenas noches con tal dramatismo que he tenido que llamar a un abogado.
+Mi pareja ha hecho un powerpoint con mis defectos y me ha dado diez minutos de turno de réplica.
+Mi marido y yo estamos negociando quién tiene razón y el árbitro es mi hámster.
+
+[FRASES:COMPRAS]
+estoy haciendo la compra en el súper
+había una cola enorme en el supermercado
+se me ha olvidado comprar el pan
+estoy de rebajas en el centro comercial
+me he quedado sin tarjeta en la caja
+tenía que recoger un paquete
+estoy buscando un regalo para mi madre
+el súper estaba cerrado
+me han cobrado dos veces en la tienda
+estoy cambiando unos zapatos
+el pedido online no ha llegado
+el repartidor se ha equivocado de dirección
+estoy en la cola de Correos
+se me ha olvidado la cartera en la tienda
+estoy buscando un vestido para la boda
+me he perdido en el Ikea
+la caja de autoservicio no me deja pagar
+han agotado el último modelo
+estoy comparando precios de portátiles
+la tienda no acepta mi cupón
+me he gastado el sueldo en una tarde
+estoy esperando a que reparen mi móvil en la tienda
+hoy es el Black Friday y esto es una locura
+se me ha roto la bolsa con todos los huevos
+estoy devolviendo una compra
+el probador no tiene espejo ni cortina
+la carnicería tiene tanta cola como el banco
+estoy buscando un disfraz
+me he olvidado la lista de la compra
+estoy comprando un regalo de última hora
+el carrito del súper tiene una rueda loca
+el cajero se ha tragado mi tarjeta
+estoy en la farmacia de guardia
+he entrado a por pan y salgo con un sofá
+la panadería se ha quedado sin barras
+estoy buscando pilas por toda la ciudad
+me han perdido el paquete en el almacén
+el mercado cierra y me quedan cosas por comprar
+estoy discutiendo con un vendedor
+me han puesto el precio mal en la caja
+
+[EXCUSAS:COMPRAS]
+Me he quedado atrapado en la sección de quesos negociando con un mostrador hostil.
+La cola del súper era tan larga que he envejecido dos años en la caja siete.
+Una señora me ha retado a un duelo de cupones y no podía rendirme.
+El carrito tenía vida propia y me ha llevado a la sección de ferretería.
+Me han cobrado el aire de la bolsa y he exigido hablar con el director del oxígeno.
+Estaba comprando huevos y he quedado en medio de un debate sobre cuál es el más feliz.
+He perdido la tarjeta en un pasillo infinito de yogures sin fecha.
+El repartidor se ha perdido en mi portal y ahora vivimos en un bucle.
+La caja de autoservicio me ha dicho artículo inesperado en la bolsa y me ha entrado una crisis de identidad.
+He entrado a por pan y el supermercado me ha ofrecido un contrato indefinido.
+Me han tocado unas rebajas con tanto público que he salido con la ropa de otro.
+El dependiente me ha pedido paciencia y llevo en ella desde las cuatro.
+La báscula de las frutas me ha juzgado y me he quedado a justificar mis uvas.
+El probador se ha cerrado conmigo dentro y había otra persona probándose lo mismo.
+Un coro de señoras en la cola de la pescadería me ha adoptado y no me dejan marchar.
+El cajero se ha tragado mi tarjeta y quiere que le cuente mi vida a cambio de devolvérmela.
+Me he dejado la lista en casa y el supermercado ha aprovechado para venderme su vida entera.
+La puerta de la tienda no se abría y me han dicho que primero había que pedirle perdón.
+Me han perdido el paquete en el almacén y ahora hacemos una búsqueda del tesoro.
+Un descuento del tres por uno me ha atrapado en una espiral matemática.
+El panadero me ha dado una barra de pan que cantaba y tengo que devolverla.
+Había tanta cola en Correos que han abierto una cafetería dentro.
+El súper ha cerrado con mi carrito dentro y estoy esperando a que alguien me rescate.
+Me han dado el cambio en monedas de chocolate y he tenido que contarlas.
+Estaba eligiendo un regalo y he descubierto que mi gusto es el de otra persona.
+En la farmacia me han dicho que lo que necesito es una buena excusa, y la estoy buscando.
+La tienda tenía una oferta tan buena que han llamado a la policía.
+Me he metido a mirar y el centro comercial me ha cambiado de planta sin avisar.
+Un empleado me ha explicado el funcionamiento de una freidora durante una hora y media.
+El pedido ha llegado en un camión de mudanzas con una sola caja de tornillos.
+
+[FRASES:MASCOTA]
+mi perro se ha comido mis deberes
+mi gato ha vomitado en el sofá
+se me ha escapado el perro
+tengo que llevar al veterinario a mi gato
+mi loro no para de gritar
+mi hámster se ha escapado de la jaula
+el perro me ha roto el móvil
+mi gato se ha subido al armario y no baja
+mi perro tiene tos
+se ha muerto el pez de mi hijo
+mi perro se ha tragado un calcetín
+mi gato no me deja levantarme de la cama
+el perro ha rajado el sofá nuevo
+mi conejo ha mordido el cable del ordenador
+la tortuga se ha escondido y no la encuentro
+mi perro ha desaparecido en el parque
+mi gato ha traído un ratón vivo a casa
+mi perro me ha tirado al suelo en el paseo
+el veterinario me ha dado cita de urgencia
+mi periquito se ha escapado por la ventana
+mi perro ha hecho un agujero en el jardín
+mi gato se ha meado en mi mochila
+mi perro se ha revolcado en algo asqueroso
+tengo que darle la medicina a mi perro
+el gato ha tirado la lámpara
+mi perro ladra y los vecinos se quejan
+mi gato está encerrado en el baño del vecino
+mi perro no quiere volver a casa
+se me ha caído el acuario
+mi perro ha mordido al cartero
+mi gato ha roto la cortina
+me ha entrado el perro del vecino en casa
+la cobaya está de parto
+mi perro se ha comido mi bocadillo
+mi gato se ha quedado atascado en una caja
+mi perro tiene cita en la peluquería canina
+estoy buscando a mi gato por todo el barrio
+mi perro ha masticado mis zapatillas favoritas
+mi loro ha aprendido a insultar
+mi gato ha decidido dormirse sobre mi teclado
+
+[EXCUSAS:MASCOTA]
+Mi perro se ha presentado a las elecciones de la comunidad y estoy de jefe de campaña.
+Mi gato ha convocado una reunión urgente y yo soy el único que no tiene voto.
+Mi loro ha aprendido a imitar tu voz y ha cancelado todos tus compromisos.
+Mi hámster ha montado un túnel hacia otro país y estoy negociando su vuelta.
+El perro se ha tragado mi móvil y espera un pequeño ladrido con novedades.
+Mi gato ha decidido que hoy no se sale de casa y ha bloqueado la puerta con su dignidad.
+Mi mascota ha heredado una fortuna y me ha nombrado su secretario.
+El perro me ha pedido asilo político y no puedo dejarlo en la estacada.
+Mi gato se ha sentado sobre mis llaves y no hay quien lo mueva sin contrato.
+Mi perro se ha creído gato y está subido a la nevera exigiendo respeto.
+Mi pez ha pedido el divorcio de su pecera y estoy mediando en el conflicto.
+El loro ha empezado a dar órdenes con voz de jefe y todo el edificio le obedece.
+Mi conejo ha huido con mi cartera por una cuestión de principios.
+El perro ha enterrado mis deberes con tanto cariño que no me atrevo a desenterrarlos.
+Mi gato me ha mirado fijamente a los ojos y he perdido la noción del tiempo.
+Mi tortuga ha corrido por primera vez en su vida y tengo que animarla.
+El hámster ha hecho una huelga de rueda y estamos en plena negociación colectiva.
+Mi perro ha aprendido a abrir la puerta y se ha ido a hacer una gestión.
+El gato ha decidido que mi almohada es suya y yo tengo que dormir en el pasillo.
+Mi perro ha invitado a otros veinte perros a casa sin consultarme.
+Mi periquito ha empezado a cotizar a la Seguridad Social y tiene reunión con su gestor.
+Mi gato ha tirado un jarrón con la mirada y estoy interrogándolo.
+El perro se ha comido mi bocadillo y ahora tiene complejo de culpa filosófica.
+Mi mascota ha entrado en una fase de rebeldía adolescente y no quiere volver a casa.
+La tortuga ha escondido el mando de la tele y exige una charla.
+Mi perro tiene audiencia con el veterinario, que es más difícil de conseguir que una con el rey.
+Mi gato me ha dejado un ratón de regalo y no puedo ser descortés.
+El perro ha decidido que hoy hay que pasear por la ruta larga y la ruta larga es infinita.
+Mi loro está contando mis secretos a una vecina por el balcón.
+Mi cobaya está en pleno proceso de selección para ser la mascota del año.
+
+[FRASES:SALUD]
+me duele muchísimo la cabeza
+tengo fiebre y estoy fatal
+me ha dado un ataque de lumbago
+tengo cita con el dentista
+me he torcido el tobillo
+creo que he pillado la gripe
+me he intoxicado con unas gambas
+tengo una migraña horrible
+me ha dado un mareo en la calle
+me he quedado sin voz
+me ha salido un sarpullido enorme
+tengo un dolor de muelas insoportable
+me he cortado con el cuchillo del pan
+estoy en urgencias desde hace horas
+me ha dado una contractura en el cuello
+tengo la tensión por las nubes
+me he quemado con el aceite
+tengo una conjuntivitis
+me ha picado una avispa en la mano
+estoy con diarrea desde anoche
+tengo una analítica en ayunas
+me he dado un golpe en la cabeza
+estoy resfriadísimo y estornudo sin parar
+me duele la espalda como si tuviera noventa años
+me han dado hora para una radiografía
+me ha subido la fiebre otra vez
+tengo un ataque de ansiedad
+no he pegado ojo en toda la noche
+me ha dado una alergia horrible
+me he hecho daño corriendo
+tengo que ir a fisioterapia
+me ha dado hipo y no se me quita
+tengo un tirón en la pierna
+me han puesto una vacuna y estoy flojísimo
+creo que tengo anginas
+me he mareado en el ascensor
+tengo cita con el oculista y me han dilatado las pupilas
+estoy débil porque no he comido
+me ha dado un ataque de tos
+me he quedado dormido por la medicación
+
+[EXCUSAS:SALUD]
+Mi médico me ha recetado reposo absoluto, y he encontrado una grieta de la ley en el sofá.
+Me ha dado un ataque de teatralidad aguda y debo cancelar por una gala de mi propia vida.
+Mi dolor de cabeza ha convocado a un coro de tambores y yo soy el escenario.
+El dentista ha descubierto que tengo una muela con dos nacionalidades.
+He pillado un virus tan raro que los científicos quieren estudiarme en vivo.
+Mi tobillo se ha plantado y exige negociar un convenio colectivo.
+Un mareo me ha enviado a una dimensión donde todos hablan en rima.
+Mi cuerpo ha hecho un reinicio forzoso y estoy esperando a que cargue el sistema.
+Mi espalda se ha ido de vacaciones y me ha dejado una nota de hasta luego.
+Mi estornudo ha creado una corriente de aire que ha movido tres muebles y me ha dejado agotado.
+Mi fiebre ha alcanzado una temperatura a la que ya se puede cocinar un huevo sobre mi frente.
+La medicación me ha dado tanto sueño que me he despertado en otro día.
+Mi hígado ha puesto una reclamación formal por el pastel de ayer.
+He descubierto que soy alérgico al lunes y no hay antihistamínico que lo remedie.
+Mi garganta ha decidido hacer un voto de silencio hasta nuevo aviso.
+Un tirón en la pierna me ha dejado en una postura que ya es una obra de arte moderno.
+El médico dice que necesito descansar y yo soy muy obediente con las autoridades.
+Mi cerebro se ha puesto en modo ahorro de energía y ahora solo piensa en dormir.
+Mi muela ha empezado a transmitir en directo y no puedo callarla.
+Mi resfriado ha llegado con familia y se han quedado a pasar el fin de semana.
+Mi pierna se ha dormido y no hay manera de despertarla sin un buen despertador.
+He tenido un ataque de agotamiento por tener que pensar en demasiadas cosas a la vez.
+Me han puesto una vacuna y ahora me siento medio superhéroe y medio flan.
+Mi tensión ha subido tanto que me he quedado a observar las vistas.
+El tirón de cuello me deja mirando solo a la izquierda y todos estáis a mi derecha.
+Me ha entrado un hipo tan fuerte que ha movido el sismógrafo del barrio.
+Mi analítica ha salido tan rara que quieren repetirla con testigos.
+Mi ojo se ha puesto en huelga de parpadeo y estoy en negociaciones.
+Mi nariz ha decidido que hoy es el día de llorar por mí.
+Mi cuerpo ha entrado en reunión extraordinaria y tengo que asistir a todas las sesiones.
+
+[FRASES:CLIMA]
+está diluviando en toda la ciudad
+hay una tormenta eléctrica
+ha nevado y está todo bloqueado
+hace un calor insoportable
+hay una niebla que no se ve nada
+se ha inundado mi calle
+hay un viento que se lleva los coches
+ha caído una granizada enorme
+se ha ido la luz por la tormenta
+hay una ola de frío polar
+mi paraguas se ha dado la vuelta con el viento
+hay hielo en toda la carretera
+la alerta roja por lluvia no me deja salir
+han cerrado el aeropuerto por la nieve
+el calor me ha derretido el móvil
+hay una ola de calor y el aire no funciona
+la tormenta ha tirado un árbol en mi portal
+el río se ha desbordado cerca de casa
+hay una tormenta de arena
+el viento me ha volado el sombrero y la dignidad
+he salido sin abrigo y hace un frío glacial
+el sol me ha dejado ciego en el coche
+llueve tanto que no se ve la acera
+el granizo ha roto la ventana
+hay un tornado de hojas en la calle
+la helada ha congelado la cerradura
+hay charcos tan grandes que parecen lagos
+el temporal ha cortado internet
+he resbalado en el hielo
+la lluvia ha colado agua por el techo
+hay tanta humedad que se me riza el pelo
+ha caído un rayo cerca de casa
+la nevada ha dejado atrapado mi coche
+se ha caído el toldo con el viento
+la calima no me deja respirar
+se ha congelado la tubería
+el calor del asfalto me ha quemado las zapatillas
+me ha pillado una tormenta sin paraguas
+hace tanto viento que no puedo abrir la puerta
+hay una tromba de agua en la entrada
+
+[EXCUSAS:CLIMA]
+Ha llovido tanto que mi calle ha sido reclasificada como lago turístico.
+Un rayo me ha dejado sin wifi y un poco más sabio, pero sin wifi.
+La nieve se ha tragado mi portal y vivo en una cueva con vistas.
+Hace tanto calor que mi sombra se ha ido a vivir a la nevera.
+El viento se ha llevado mi paraguas, y el paraguas se ha llevado a mi dignidad.
+Una niebla tan espesa que he saludado a un buzón durante veinte minutos.
+El granizo ha abollado el coche, mi plan y mi fe en la meteorología.
+Se ha ido la luz y he tenido que improvisar un pacto con una vela.
+Una nube se ha quedado atascada encima de mi cabeza y me sigue a todas partes.
+El sol ha salido tan fuerte que mi gorra ha pedido un contrato de seguridad.
+El viento ha movido mi casa dos metros a la izquierda y tengo que reorientarme.
+Llueve tan fuerte que mi paraguas ha pedido un chaleco salvavidas.
+La helada ha congelado mi cerradura y ahora estoy negociando con el hielo.
+La niebla se ha comido mi calle entera y vivo en un cuadro impresionista.
+Los charcos son tan profundos que ha venido un submarinista a reconocerlos.
+La tormenta ha desordenado las estrellas y el cielo está en mantenimiento.
+El calor ha derretido mi calendario y ya no sé qué día es hoy.
+Un huracán de hojas secas me ha levantado en el aire y me ha dejado en otro barrio.
+La nieve ha cubierto mi coche con tanto cariño que me da pena desenterrarlo.
+El granizo ha ensayado un concierto de percusión sobre mi tejado toda la noche.
+El aire acondicionado ha ganado una batalla contra el verano y ahora hace frío en agosto.
+He salido de casa y el termómetro ha huido por la ventana de la vergüenza.
+La lluvia ha entrado en mi casa para ver la tele y no se quiere ir.
+La calima ha tapado el sol y ahora toda la ciudad parece un filtro de Instagram.
+Ha caído tanta nieve que mi vecino ha esquiado hasta la panadería.
+La tormenta me ha dejado sin internet y sin capacidad de contarle mi vida a nadie.
+El viento ha llegado con tanta prisa que se ha llevado las tejas y la conversación.
+Hay tanta humedad en casa que me ha crecido musgo en la mochila.
+El sol me ha mirado fijamente y he perdido la voluntad de moverme.
+La luz se ha ido a investigar un asunto en otras casas y todavía no ha vuelto.
+
+# ================== CATEGORÍAS MIXTAS (2 etiquetas) ==================
+
+[FRASES:CLIMA+VEHICULO]
+llueve a cántaros y el coche no arranca
+la nieve ha bloqueado mi coche en el garaje
+hay niebla espesa y se me ha averiado el coche
+el granizo me ha abollado el coche en plena autopista
+con la tormenta se ha parado el metro
+el viento ha tirado un árbol sobre mi coche
+la carretera está helada y mi coche patina
+estoy atrapado en un atasco por la nevada
+el temporal ha cortado la autopista
+me he quedado sin gasolina en medio de una tormenta
+se me ha pinchado una rueda bajo la lluvia
+hay una riada y no puedo sacar el coche
+la lluvia ha inundado el parking y mi coche flota
+el calor ha hecho reventar el neumático
+el autobús no ha pasado por la nieve
+con la niebla me he equivocado de salida
+el coche no arranca por la helada
+ha caído una tormenta de granizo y la moto está destrozada
+el tren está cancelado por el temporal
+el parabrisas se ha empañado y no veo nada
+el viento me ha volcado la moto
+las cadenas de nieve no me entran en las ruedas
+se me ha calado el coche en un charco enorme
+hay una ola de calor y el coche se ha recalentado
+la lluvia ha cortado la carretera de acceso al pueblo
+los limpiaparabrisas han dejado de funcionar en plena tormenta
+el taxi no aparece por la lluvia
+mi patinete ha resbalado en el hielo
+el vuelo se ha cancelado por la tormenta y el taxi también
+un rayo ha caído junto a mi coche y ahora no arranca
+hay un lago en la rotonda y el coche no pasa
+el coche se ha quedado atascado en la nieve
+con tanto viento no controlo el volante
+la bici se me ha resbalado en la lluvia
+estoy aislado en la autopista por la nevada
+el calor me ha fundido la batería del coche
+no veo la carretera por la niebla y he parado en el arcén
+la lluvia me ha dejado sin frenos en la cuesta
+el temporal ha dejado sin luz el túnel donde estoy atascado
+la ventisca me ha cerrado el puerto de montaña
+
+[EXCUSAS:CLIMA+VEHICULO]
+La tormenta ha convertido mi coche en un submarino y no tengo carnet de buzo.
+Una nube baja se ha sentado en mi capó y no hay quien la mueva.
+El hielo ha convertido la carretera en una pista de patinaje y mi coche ha pedido una medalla.
+El granizo ha tocado el himno nacional sobre mi techo y me he quedado en posición de firmes.
+La niebla ha borrado mi calle del mapa y mi GPS ha pedido la baja por estrés.
+Mi coche ha oído que llovía y ha decidido que es de sal y se disuelve.
+Un tornado de hojas ha secuestrado mi retrovisor y pide rescate en bellotas.
+El viento me ha empujado hasta Albacete sin pasar por la M-30.
+La nieve ha cubierto mi coche con tanta ternura que no me atrevo a molestarlo.
+Los limpiaparabrisas han empezado a bailar bajo la lluvia y no me atrevo a interrumpirlos.
+El calor ha derretido mi volante y ahora conduzco con un chicle gigante.
+Un charco tan grande me ha pedido el pasaporte para cruzarlo.
+La helada ha convertido mi cerradura en una pieza de museo.
+Mi coche ha visto un relámpago y se ha echado a temblar bajo el edredón del garaje.
+La lluvia ha dejado mi autobús navegando y tengo que esperar al siguiente barco.
+Un rayo ha cargado mi batería con tanta ilusión que ahora no para de pitar.
+Una ventisca me ha dejado a cuatro kilómetros de mi propio coche, que sigue ahí enfadado.
+El tren se ha quedado atascado en un charco con sensación de vacaciones.
+La nieve ha dejado mi garaje convertido en un iglú con wifi.
+El granizo ha dibujado un cuadro cubista en mi parabrisas y no quiero estropear el arte.
+Con tanta niebla el autobús se ha perdido y ha pedido indicaciones a un buzón.
+El temporal ha cortado la carretera para hacer una limpieza de primavera.
+El calor ha cocinado mi neumático al punto y ahora no hay quien lo coma.
+Mi moto ha visto la lluvia y se ha ido a casa a ver series.
+El viento ha cambiado de sitio todas las señales y ahora Madrid está en Cuenca.
+El hielo me ha dejado patinando en una rotonda como un trompo humano.
+La riada ha movido mi coche tres calles más abajo y ahora tiene vecinos nuevos.
+Una niebla con acento extranjero me ha llevado a Burgos sin que yo lo supiera.
+La tormenta ha apagado todos los semáforos y el tráfico se ha organizado como un juego de azar.
+Mi coche se ha negado a mojarse y se ha quedado en seco esperando un día soleado.
+
+[FRASES:COMPRAS+PAREJA]
+estoy comprando el regalo de aniversario de mi novia
+mi pareja me ha mandado a por una lista de compra imposible
+estoy en el súper y mi novia me ha llamado para discutir
+estoy eligiendo un anillo y no sé cuál
+mi novia está de rebajas y me ha pedido que le sostenga las bolsas
+mi marido me ha mandado a comprar y se ha olvidado de decirme qué
+estoy comprando flores para pedirle perdón a mi pareja
+mi novio me ha dejado en la cola del supermercado
+mi mujer me ha pedido lo de siempre pero no recuerdo qué es
+estamos en el Ikea y la pareja está a punto de romperse
+mi pareja me ha pedido que devuelva su regalo
+estoy buscando un vestido para la boda de mi ex
+mi novia me ha mandado a por compresas y no sé cuáles
+estoy comprando una sorpresa para mi pareja
+mi novio y yo nos hemos peleado en la caja del súper
+estoy eligiendo el sofá con mi pareja y vamos a divorciarnos
+mi mujer me ha pillado con la compra sin el producto que quería
+estoy buscando bombones para San Valentín y no quedan
+mi pareja ha comprado algo carísimo sin avisar
+mi novia me ha llamado cuando estaba en la cola de la carnicería
+estoy en el centro comercial buscando un regalo para mi suegra
+mi marido me ha prohibido volver a casa sin el pan
+estoy tan perdido en la tienda que mi pareja me ha localizado por GPS
+estoy probándome ropa y mi novia me dice que no
+mi pareja y yo discutimos por el carro de la compra
+estoy comprando un vino para cenar con mi pareja y ha aparecido mi ex
+estoy esperando a que mi novia salga de la tienda de zapatos
+mi novio me ha dicho que compre algo bueno y no sé qué es bueno
+mi mujer me ha mandado un mensaje con veinte cosas por comprar
+estamos eligiendo los regalos de boda y no coincidimos
+estoy recogiendo el pedido de mi pareja en Correos
+mi novia quiere cambiar el regalo que le he hecho
+estoy comprando comida para la cena con los suegros
+mi pareja me ha pedido que devuelva el sofá nuevo
+mi novia me ha mandado a por algo que no existe
+estoy en la cola del súper y mi pareja me ha mandado un audio de diez minutos
+estoy en la tienda de lencería con mi pareja y no sé dónde mirar
+estoy comprando un ramo y me han dicho que ya no quedan rosas
+mi pareja y yo hemos perdido el ticket de la compra
+estoy regateando en el mercadillo con mi novia mirándome mal
+
+[EXCUSAS:COMPRAS+PAREJA]
+Mi pareja me ha mandado a comprar un regalo sorpresa y la sorpresa es que no sé qué quiere.
+Estoy en el pasillo de las velas románticas y me ha dado una crisis existencial.
+Mi novia ha convertido la lista de la compra en una prueba de fe y llevo tres horas buscando el champiñón correcto.
+El carrito del súper se ha enamorado de otro carrito y mi pareja lo ha vivido como una traición.
+Una señora de la cola me ha dado consejos sobre mi relación durante cuarenta minutos y tenía razón.
+Me he gastado el sueldo en un ramo para pedir perdón y ahora tengo que pedirle perdón a mi cartera.
+Mi novio ha vuelto a entrar al probador con otro look y yo estoy atrapado en el desfile.
+Mi marido me ha mandado un audio de siete minutos con la lista y lo estoy descifrando como un criptógrafo.
+En la caja me han cobrado lo que vale mi dignidad y mi novia me ha pedido el ticket.
+Mi pareja me ha pedido que compre algo bueno y el diccionario no me ayuda a saber qué es.
+Estoy en una discusión sobre qué marca de papel higiénico es la más romántica.
+Mi novia me ha mandado devolver su regalo y ahora el dependiente me pide una explicación sentimental.
+La cola del Ikea nos ha atrapado en una crisis de pareja con albóndigas.
+Mi pareja se ha probado diecisiete vestidos y yo he envejecido en la silla de los maridos.
+Una oferta de dos por uno me ha hecho comprar dos regalos y ahora mi pareja tiene dos motivos para enfadarse.
+Me he olvidado del aniversario y estoy negociando con una floristería para que me venda una disculpa a plazos.
+Mi novia ha encontrado el regalo en mi carrito antes de tiempo y estamos en un duelo de miradas.
+Mi pareja me ha pedido que traiga leche y he vuelto con un sofá, que es otra forma de amor.
+Mi novio se ha perdido entre las estanterías y me ha dejado solo con la compra de sus ilusiones.
+He ido a comprar un anillo y el joyero me ha dado una charla de tres horas sobre el compromiso.
+Mi pareja y yo nos hemos quedado encerrados en un debate sobre si la cebolla va antes o después.
+He comprado el regalo equivocado y estoy en un taller de supervivencia emocional.
+Mi mujer me ha dicho tráeme lo de siempre y lo de siempre ha dejado de existir.
+Un dependiente me ha jurado que ese perfume enamoraría a cualquiera y me ha tocado verificarlo.
+La pareja de al lado en la cola ha empezado a discutir y me han pedido que haga de árbitro.
+Mi pareja ha olvidado su cartera y yo he quedado como rehén de la caja siete.
+Mi novia ha entrado a por unos calcetines y ha salido con una lavadora en una carretilla.
+Estamos escogiendo el menú de la boda y llevamos cuatro horas en la sección de salsas.
+Mi marido ha comprado una freidora sin consultarme y ahora tengo que defenderlo ante el tribunal doméstico.
+La caja de autoservicio me ha dicho espere asistencia y mi pareja ha dicho exactamente lo mismo.
+
+[FRASES:MASCOTA+SALUD]
+mi perro se ha comido mis pastillas y estoy en urgencias
+mi gato me ha arañado y me duele muchísimo
+tengo alergia a mi perro y estoy estornudando sin parar
+mi perro me ha mordido la mano y estoy en el médico
+estoy llevando a mi gato al veterinario con fiebre
+me he torcido el tobillo paseando al perro
+mi perro tiene diarrea y yo también
+mi gato ha vomitado y me ha dado un mareo
+mi mascota ha pillado la gripe y yo también
+mi loro me ha picado y tengo la mano hinchada
+mi perro ha tirado de la correa y me he dislocado el hombro
+mi hámster está enfermo y estoy muy mal de los nervios
+tengo cita con el médico y mi perro tiene cita con el veterinario
+mi gato me ha dado un susto y me duele el pecho
+mi perro se ha tragado algo y estoy hiperventilando
+me ha dado un ataque de asma por el pelo del gato
+mi perro me ha tirado al suelo y me he roto la muñeca
+a mi conejo le han puesto la vacuna y yo me he mareado al verlo
+me ha picado una garrapata del perro
+tengo que darle la medicina a mi perro y a mí
+mi gato tiene fiebre y yo no he dormido en toda la noche
+mi perro cojea y yo también
+me ha dado un tirón corriendo detrás de mi perro
+mi perro se ha intoxicado con chocolate y estoy en shock
+a mi tortuga le duele el caparazón y a mí la cabeza
+mi perro me ha contagiado la tos
+me he intoxicado con la comida que le di al perro por error
+mi gato está en el quirófano y yo estoy en la sala de espera con ansiedad
+tengo un sarpullido por el pienso del perro
+mi perro tiene una operación y yo estoy sin dormir
+mi gato me ha dejado sin voz de tanto llamarlo
+me han mordido en el parque y hay que ir al médico
+mi perro tiene conjuntivitis y yo también
+me duele la espalda de cargar con el perro enfermo
+mi hámster ha muerto y tengo un disgusto enorme
+a mi periquito se le ha caído una pluma y estoy con un ataque de pánico
+mi perro me ha golpeado con la cabeza y me ha salido un chichón
+mi gato se ha escapado y se me ha disparado la tensión
+mi perro necesita una analítica y yo también
+estoy con fiebre y mi gato no se separa de mí
+
+[EXCUSAS:MASCOTA+SALUD]
+Mi perro se ha tragado mis pastillas y ahora los dos estamos de baja médica.
+Mi gato ha empezado a recetarme baños de sol y no me deja levantarme del sofá.
+Me he contagiado la tos del perro y ya ladro al toser.
+El veterinario me ha confundido con el paciente y me ha puesto una vacuna.
+Mi hámster ha entrado en una dieta de zanahorias y yo he entrado en su dieta por solidaridad.
+Mi perro me ha mordido la mano y me ha dicho que fue sin querer, que me quiere mucho.
+Mi gato ha vomitado en mi zapato y me ha dado un mareo de duelo.
+El loro me ha diagnosticado mal el estrés y me ha mandado reposo con su voz de doctor.
+Mi perro tiene alergia a mi dolor de cabeza y no me deja ni abrir la puerta.
+He pasado la noche en vela con mi gato enfermo y ahora tengo el sueño de un koala.
+Mi conejo ha estornudado tan fuerte que me ha dado un tirón en el cuello.
+Mi perro y yo hemos cogido la gripe a la vez y tenemos un hospital de campaña en el sofá.
+La tortuga ha tenido una cita médica y el veterinario me ha puesto a mí a dieta.
+Mi gato me ha arañado con tanta elegancia que he tenido que ir a urgencias con sentido artístico.
+El perro ha empezado a cojear para llamar la atención y a mí me ha dado cojera de empatía.
+La medicina del perro se parece tanto a la mía que me la he tomado yo.
+Mi periquito ha enfermado y me ha pasado el virus a través de un picotazo.
+Mi perro ha tenido una operación de oreja y yo me he desmayado en la sala de espera.
+Mi gato ha convertido mi estornudo en un concierto de vuelo y me he quedado sin aire.
+Mi perro me ha pasado una garrapata y ahora me siento como un nómada.
+Mi cobaya me ha mirado con cara de enferma y he tenido que acompañarla en el reposo.
+Mi perro ha tenido un resfriado y me ha pedido el pañuelo con mirada de abandono.
+Me han dado cita en el médico y mi gato ha insistido en ir conmigo como acompañante.
+El perro ha comido algo que no debía y yo he comido algo que me ha sentado peor.
+Mi mascota ha tenido un tirón muscular y le estoy dando masajes que me han lesionado a mí.
+Mi gato necesita una vacuna y a mí me ha entrado un ataque de nervios con solo mirar la aguja.
+Mi perro ha pedido hora al fisio y yo la he pedido para mi espalda de cargarlo.
+La pata del perro está mala y yo me he puesto también una venda por solidaridad.
+El loro ha contado mis síntomas a la vecina y ahora toda la escalera me trae sopa.
+Mi hámster se ha escapado con mi termómetro y estoy tan nervioso que me ha subido la fiebre.
+
+[FRASES:MASCOTA+VEHICULO]
+mi perro se ha comido el asiento del coche
+mi gato se ha escondido dentro del motor
+llevo a mi perro al veterinario y el coche no arranca
+mi perro ha vomitado en el coche y no puedo conducir
+mi gato se ha escapado del transportín en plena autopista
+el perro ha mordido el cable de la batería
+el coche está lleno de pelos y ha fallado la ITV
+mi perro ha ladrado tanto que me he salido de la carretera
+se me ha escapado el perro cuando abrí la puerta del coche
+mi gato duerme sobre el capó y no se baja
+mi perro se ha mareado en el coche y tengo que parar cada diez minutos
+mi conejo se ha comido los cables del coche
+mi loro va gritando en el autobús y nos han echado
+he perdido a mi perro en el atasco
+mi perro se ha meado en el coche y huele a rayos
+el taxi no me deja subir con mi gato
+mi perro ha roto la ventanilla del coche
+llevo a mi gato en la moto y no para quieto
+el perro ha abierto la puerta del coche con la pata
+mi perro no quiere subir al coche
+mi gato ha arañado el volante
+el perro se ha quedado atrapado en el maletero
+mi perro se ha tragado la llave del coche
+el autobús no deja subir mascotas y tengo al perro conmigo
+un conejo se ha cruzado en la carretera y me he salido
+mi perro ha mordido el cinturón de seguridad
+se me ha averiado el coche con el perro dentro
+mi gato se ha subido a la rueda del coche del vecino
+mi perro ha atropellado un patinete
+mi perro se ha sentado sobre el freno de mano
+mi gato se ha colado en el maletero y no sé dónde está
+me he quedado sin gasolina llevando al perro al parque
+mi perro ha destrozado la cesta de la bici
+tengo el coche en el taller por culpa de mi perro
+una vaca se ha cruzado y mi perro ha empezado a ladrar
+el perro ha tirado de la correa y se ha caído la moto
+mi gato se ha meado en la tapicería del coche
+mi perro ha confundido el coche del vecino con el mío y se ha metido
+mi hámster se ha escapado en el autobús
+el perro sacó la cabeza por la ventanilla y se ha perdido la gorra
+
+[EXCUSAS:MASCOTA+VEHICULO]
+Mi perro se ha comido el asiento del coche y ahora circulo en modo bicicleta.
+Mi gato se ha instalado en el motor y no hay quien lo convenza de que se mude.
+El perro ha confundido el claxon con una invitación a cantar y ahora todo el barrio aúlla.
+Mi hámster se ha escapado en el autobús y ha tomado el control del volante.
+Mi loro ha empezado a dar indicaciones con voz de GPS y me ha mandado a Portugal.
+El perro se ha tragado la llave del coche y estamos esperando su respuesta.
+Mi gato ha arañado el volante tan fuerte que ahora solo gira en círculos felinos.
+Mi perro ha abierto la puerta con la pata y se ha ido a tomar el aire a otra provincia.
+Mi conejo ha mordido los cables y ahora el coche funciona con zanahorias.
+Mi perro ha vomitado en el coche con tal dramatismo que he tenido que llamar a una ambulancia.
+Mi gato se ha dormido sobre el capó y ha decidido que ahora vive ahí.
+Mi perro ha sacado la cabeza por la ventanilla y ha pedido bajarse en el próximo semáforo.
+Un conejo ha cruzado la carretera con la tranquilidad de un ministro y mi coche ha frenado por respeto.
+El taxista ha visto a mi gato y ha dicho que solo lleva pasajeros de la especie humana.
+Mi perro se ha negado a subir al coche hasta que le pida disculpas por el último viaje.
+Mi gato se ha colado en el maletero y ahora el coche tiene un nuevo propietario.
+Mi periquito ha empezado a imitar la alarma del coche y se ha armado un caos sonoro.
+Mi perro ha mordido el cinturón y ahora nuestro lema es libertad sin límites.
+El autobús me ha echado por ir con mi tortuga y la tortuga ha insistido en llegar antes que yo.
+El perro ha confundido el coche del vecino con el mío y se ha ido a vivir con él.
+Mi gato ha tirado del freno de mano y ahora el coche tiene sus propias ideas.
+Mi hámster ha utilizado el motor como rueda de ejercicio y ha batido un récord.
+Mi perro ha ladrado tanto que mi coche se ha quedado sordo y ha dejado de funcionar.
+Mi gato se ha escapado del transportín y ahora circula por la autopista con paso triunfal.
+El perro ha pedido pasear por la ruta larga y la ruta larga era infinita.
+Mi perro se ha metido en el maletero y ahora el coche tiene un guardián.
+Mi coche tiene pelos de gato con tanta densidad que ha tenido una reunión con el sindicato peludo.
+Mi loro ha cogido el volante y ha empezado a cantar boleros sin mirar la carretera.
+El gato ha colocado una caja en medio del carril y exige peaje en atún.
+Mi perro ha pedido volante propio y ha organizado una huelga de patas caídas.
+
+[FRASES:PAREJA+SALUD]
+mi novia está enferma y tengo que cuidarla
+me ha dado un ataque de ansiedad por una discusión con mi pareja
+mi marido tiene fiebre y no se levanta
+mi pareja me ha contagiado la gripe
+mi novio se ha lesionado jugando al fútbol
+tengo cita con el ginecólogo con mi pareja
+mi mujer está de parto
+mi pareja me ha dejado y me duele el estómago
+mi novia tiene migraña y no puedo dejarla sola
+estoy con mi pareja en urgencias
+me ha dado un mareo después de la pelea con mi novio
+mi mujer tiene que operarse mañana
+mi pareja ronca y no he pegado ojo
+mi novio se ha intoxicado con la cena que le preparé
+tengo dolor de cabeza por la discusión con mi novia
+mi marido se ha torcido el tobillo bajando la basura
+mi pareja me ha pegado su resfriado
+estoy agotado por cuidar a mi novia enferma
+mi novio se ha desmayado en el cine
+mi pareja y yo tenemos cita en el centro de salud
+mi mujer tiene una alergia terrible y no puede salir
+mi novia tiene la regla y mucho dolor
+me he puesto malo desde que mi pareja me dejó
+mi pareja me ha dicho que me ve pálido y me ha llevado al médico
+mi marido tiene una contractura y no puede ni moverse
+mi novio está con vómitos
+mi pareja ha vuelto del dentista con la cara hinchada
+llevo toda la noche cuidando a mi novia con fiebre
+me duele el corazón literalmente por la ruptura
+mi mujer me ha contagiado las anginas
+mi novio tiene que hacerse una analítica y me ha pedido que lo acompañe
+mi pareja me ha obligado a ir a una revisión médica
+mi novia se ha quemado cocinando
+mi marido está en el hospital con una apendicitis
+mi novio está en cama con gripe y no hay quien le haga caso
+me ha dado un bajón de tensión por los celos
+mi pareja me ha pedido que la acompañe a fisioterapia
+mi novia ha sufrido un ataque de pánico
+estoy en la sala de espera con mi pareja desde hace horas
+mi pareja dice que la discusión me ha subido tanto la tensión que debo ir al médico
+
+[EXCUSAS:PAREJA+SALUD]
+Mi novia me ha contagiado su resfriado con tanto cariño que no me atrevo a rechazarlo.
+Mi pareja se ha puesto enferma y me ha designado enfermero con rango de general.
+La discusión con mi marido me ha subido tanto la tensión que se me ha derretido el termómetro.
+Mi novio se ha quejado de un dolor tan trágico que he tenido que ensayar el papel de médico.
+Mi mujer tiene fiebre y me ha pedido que le cante una nana con acompañamiento de ukelele.
+He tenido un ataque de ansiedad al elegir entre dos cenas y mi pareja lo ha vivido como un drama.
+Mi pareja ha pillado la gripe y me ha dejado un testamento de tareas pendientes.
+Mi novio se ha lesionado haciendo un baile romántico y ahora hacemos terapia en el sofá.
+Me han dicho que pelear con la pareja da dolor de cabeza y me estoy documentando en profundidad.
+Mi novia ha decidido que mi fiebre necesita compañía y se ha instalado a vigilarme con cara de enfermera.
+Mi marido ha visto una película triste y ha tenido un ataque de lágrimas que necesita atención médica.
+Mi pareja me ha hecho una sopa tan fuerte que me ha dado una indigestión de amor.
+Mi novio me ha pedido que le tome la temperatura y llevamos tres horas buscando el termómetro.
+Mi pareja ronca tan fuerte que el vecino ha llamado a urgencias.
+Mi mujer tiene una contractura que solo se cura con mis masajes y mi tiempo.
+Mi novia se ha desmayado con una escena romántica y la estoy reanimando con besos mal ejecutados.
+Mi pareja me ha pedido que le explique mis síntomas y me he quedado sin voz de tanto narrar.
+Mi marido ha pillado un virus que solo se cura con mi presencia y un poco de limón.
+Después de la discusión me ha dado un bajón de tensión y mi pareja me abanica con el mando.
+Mi novio se ha puesto malo de solo ver una aguja y yo me he desmayado al verlo desmayarse.
+Mi pareja me ha llevado al médico porque dice que me pongo pálido cuando discutimos.
+La fiebre de mi novia es tan alta que ha venido a verla una delegación de termómetros.
+Mi mujer me ha dicho que me ve mal y me ha puesto a dieta de sopa por decreto.
+Mi pareja tiene cita médica y yo tengo cita con mi hipocondría.
+Mi novio se ha lesionado con una zapatilla en el pasillo y ahora tenemos un juicio.
+Mi pareja tiene una alergia romántica a mis calcetines y buscamos solución en urgencias.
+Mi marido se ha puesto malo justo hoy porque no quería ir a casa de mi madre.
+Mi novia tiene migraña y exige silencio absoluto, y yo hasta he apagado mis pensamientos.
+Tras la ruptura me duele el corazón con tanta intensidad que el médico lo ha mandado a estudiar.
+Mi pareja me ha cuidado tan bien que me he vuelto adicto a estar enfermo.
+
+[FRASES:CLIMA+COMPRAS]
+está diluviando y estoy en la cola del súper
+la nieve ha cerrado el supermercado
+me ha pillado una tormenta cargado de bolsas
+el viento me ha roto la bolsa de la compra
+hace tanto calor que se me ha derretido el helado en el carro
+el paquete ha llegado empapado por la lluvia
+hay una alerta meteorológica y todos están comprando pan
+la tormenta se ha llevado la luz y no funciona la caja
+la nieve me ha impedido llegar a la tienda
+las rebajas coincidían con una ola de frío
+la lluvia ha estropeado el regalo que acababa de comprar
+el envío no llega por el temporal
+me ha caído un chaparrón en la puerta del centro comercial
+el granizo ha golpeado mi carrito de la compra
+el paraguas que acabo de comprar se ha roto con el viento
+la tienda se ha inundado y no puedo pagar
+las verduras se han congelado en la bolsa
+no hay pan porque con la nevada nadie ha podido repartir
+hay colas enormes por la ola de calor para comprar ventiladores
+la tormenta ha cortado la corriente en el supermercado
+el repartidor no llega por la nieve
+he salido a comprar sin abrigo y me estoy congelando
+la tormenta ha dejado el mercado sin puestos
+se me ha mojado toda la compra bajo la lluvia
+me he refugiado en una tienda de la tormenta y no puedo salir
+el temporal me ha dejado sin tarjeta bajo la lluvia
+estoy comprando comida de emergencia por la tormenta
+el granizo ha roto el escaparate y han cerrado la tienda
+hace tanto frío que la farmacia tiene una cola de media hora
+la lluvia ha deshecho la bolsa de papel con el pan
+el viento me ha volado el ticket de la compra
+el calor ha hecho que se pase la leche que acababa de comprar
+estoy comprando botas de agua y ya no quedan
+estoy atrapado en el centro comercial por la nevada
+me han cobrado el paraguas más caro del mundo por la lluvia
+el supermercado se ha quedado sin velas por el apagón
+la compra online me ha llegado mojada por el chaparrón
+hay una riada y no puedo salir del súper
+la tormenta me ha pillado en el parking del centro comercial
+estoy comprando abrigos y ya no quedan por la ola de frío
+
+[EXCUSAS:CLIMA+COMPRAS]
+La lluvia ha convertido la cola del súper en una excursión en barca con carrito.
+La nieve ha cerrado la tienda con mi cartera dentro y pide rescate en cupones.
+El viento me ha arrancado la bolsa y se ha llevado la compra a un lugar mejor.
+El calor ha derretido el helado en mi carro y ahora es una sopa muy cara.
+La tormenta ha dejado el supermercado a oscuras y he tenido que pagar a ciegas.
+El paquete ha llegado nadando y exige un certificado de natación.
+El granizo ha golpeado la compra con tanta puntería que me ha hecho una tortilla de huevos en la bolsa.
+El paraguas que acababa de comprar ha huido con el viento hacia el Mediterráneo.
+Me he refugiado de la lluvia en una tienda y el dependiente me ha cobrado la estancia.
+La nevada ha enterrado el carrito y estoy excavando para ver si queda algo de leche.
+La ola de calor ha dejado sin ventiladores a la ciudad y hay una guerra civil en la sección de electrodomésticos.
+La tormenta ha dejado mi pedido online en la otra punta del barrio, flotando en un contenedor.
+La tienda ha cerrado por inundación y el dueño me ha pedido que ayude a achicar agua.
+El viento ha volado el ticket de la compra con todas mis pruebas de inocencia.
+La lluvia se ha colado por la bolsa de papel y el pan se ha vuelto una sopa de boda.
+La niebla me ha impedido ver el cartel de la tienda y he comprado en la ferretería sin querer.
+El apagón ha dejado la caja sin funcionar y estamos trabajando con ábaco y fe.
+Las rebajas coincidieron con una ola de frío y todo el mundo compraba el mismo abrigo con lágrimas.
+La lluvia ha convertido el mercadillo en un parque acuático sin socorrista.
+La nevada ha dejado a mi repartidor atrapado en un trineo y mis cosas llegan con la Navidad adelantada.
+La tormenta me ha dejado sin tarjeta en un pasillo que ahora está inundado de yogures.
+El calor ha convertido el chocolate de la compra en una pasta con ambición de salsa.
+El supermercado se ha quedado sin velas, sin pilas y sin esperanza por culpa del apagón.
+El granizo ha atravesado el techo de la tienda y estoy comprando con un casco prestado.
+Una riada me ha arrastrado el carrito hasta la sección de congelados y ahora nos ha pillado el invierno.
+He ido a comprar un paraguas y la lluvia se ha quedado sin motivos para parar.
+La tormenta ha puesto en marcha todos los aspersores del centro comercial y he salido como un pez.
+El temporal ha cortado la calle y los comerciantes venden desde las ventanas.
+La ventisca me ha dejado a ciegas y he comprado tres veces lo mismo porque no veía.
+La tormenta me ha convertido en un refugiado del supermercado con derecho a ofertas.
