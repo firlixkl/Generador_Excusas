@@ -13,10 +13,12 @@ La excusa es lo de menos: **el objetivo es entender cómo se entrena y cómo fun
 ## 📸 Capturas
 
 ### Panel de Inferencia: el modelo pensando, paso a paso
-![Panel de inferencia](docs/img/inferencia.png)
+<img width="1374" height="1206" alt="Screenshot 2026-11-19 at 01-19-42 Excusas ML · Panel" src="https://github.com/user-attachments/assets/8c34bcb9-0b38-4e17-adb9-425ec1dbdd4d" />
+
 
 ### Laboratorio: entrenar, romper y comparar teoría vs. práctica
-![Laboratorio del generador](docs/img/laboratorio.png)
+<img width="1366" height="1231" alt="Screenshot 2026-11-19 at 01-17-28 Excusas ML · Panel" src="https://github.com/user-attachments/assets/489e89c7-314d-4a87-96d9-af971daea93b" />
+
 
 ## 💡 Por qué existe
 
