@@ -148,6 +148,6 @@ Puedes añadir tus propias frases, excusas o categorías editando el archivo; de
 
 ## 👤 Autor
 
-**<TU NOMBRE>** · estudiante de un máster en Ciberseguridad e Inteligencia Artificial · [LinkedIn](https://www.linkedin.com/in/<tu-perfil>)
+**Felipe Corredor** · [LinkedIn](https://www.linkedin.com/in/felipecorredorfont)
 
 Si lo has probado o se te ocurre cómo mejorarlo, abre un *issue* o cuéntamelo. 🙌
